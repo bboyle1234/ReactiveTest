@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactiveTest", "ReactiveTest\ReactiveTest.csproj", "{459CF434-C9FC-4C2D-9A1C-A43BCA4650FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459CF434-C9FC-4C2D-9A1C-A43BCA4650FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459CF434-C9FC-4C2D-9A1C-A43BCA4650FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459CF434-C9FC-4C2D-9A1C-A43BCA4650FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459CF434-C9FC-4C2D-9A1C-A43BCA4650FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C4ED23-990E-4EB3-9118-318CE5722726}
+	EndGlobalSection
+EndGlobal
